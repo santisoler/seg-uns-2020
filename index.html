@@ -1,5 +1,6 @@
 <!doctype html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -7,7 +8,7 @@
   <!-- TITLE OF THE PRESENTATION -->
   <!-- ============================================================ -->
   <title>
-    Introducción a Python para Científicxs
+    Herramientas computacionales para Geociencias
   </title>
   <!-- ============================================================ -->
 
@@ -25,7 +26,7 @@
   <link rel="stylesheet" href="pkg/revealjs/dist/reveal.css">
   <link rel="stylesheet" href="pkg/revealjs/dist/theme/black.css" id="theme">
   <!-- Theme used for syntax highlighting of code -->
-  <link rel="stylesheet" href="pkg/revealjs/plugin/highlight/zenburn.css" id="highlight-theme">
+  <link rel="stylesheet" href="atom-one-dark.css" id="highlight-theme">
 
 </head>
 
@@ -33,12 +34,8 @@
   <!-- Include the presentation from the content Markdown file -->
   <div class="reveal">
     <div class="slides">
-      <section
-         data-markdown="content.md"
-         data-separator="^\n---\n"
-         data-separator-vertical="^\n----\n"
-         data-separator-notes="^Note:"
-         >
+      <section data-markdown="content.md" data-separator="^\n---\n" data-separator-vertical="^\n----\n"
+        data-separator-notes="^Note:">
         <script type="text/template">
         </script>
       </section>
@@ -58,7 +55,7 @@
   <!-- Configure Reveal.js -->
   <script>
     Reveal.initialize({
-      plugins: [ RevealMarkdown, RevealMath, RevealHighlight],
+      plugins: [RevealMarkdown, RevealMath, RevealHighlight],
       width: 1920,
       height: 1080,
       margin: 0.1,
@@ -69,9 +66,9 @@
       // Transition speed
       transitionSpeed: 'default', // default/fast/slow
       // Transition style for full page slide backgrounds
-      backgroundTransition: 'none', // none/fade/slide/convex/concave/zoom
+      backgroundTransition: 'slide', // none/fade/slide/convex/concave/zoom
       // Display presentation control arrows
-      controls: true,
+      controls: false,
       // Help the user learn the controls by providing hints, for example by
       // bouncing the down arrow when they first encounter a vertical slide
       controlsTutorial: true,
@@ -94,7 +91,7 @@
       // number for the current slide. The function should take in a slide
       // object and return an array with one string [slideNumber] or
       // three strings [n1,delimiter,n2]. See #formatSlideNumber().
-      slideNumber: "c/t",
+      slideNumber: false,
       // Add the current slide number to the URL hash so that reloading the
       // page/copying the URL will return you to the same slide
       hash: true,
@@ -150,4 +147,5 @@
   </script>
 
 </body>
+
 </html>
