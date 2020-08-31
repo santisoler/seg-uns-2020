@@ -1,6 +1,6 @@
 # Herramientas Computacionales para Geociencias
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 por [Santiago Soler](https://santisoler.github.io)
 
@@ -26,7 +26,7 @@ actualmente Estudiante del Doctorado en Geofísica en la Universidad Nacional de
 San Juan y becario doctoral de CONICET.
 Su investigación se centra alrededor del desarrollo de nuevas metodologías
 para el modelado y la inversión de datos gravimétricos y magnetométricos.
-Forma parte del grupo de desarrolladores de Fatiando a Terra, un conjunto de
+Forma parte del grupo de desarrolladores de Fatiando a Terra: un conjunto de
 librerías open-source en Python para geofísica.
 
 
