@@ -5,6 +5,11 @@
 por [Santiago Soler](https://santisoler.github.io)
 
 
+## Acerca de
+
+...
+
+
 ## Abstract
 
 En las últimas décadas las herramientas computacionales han cobrado un rol
