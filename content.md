@@ -559,16 +559,46 @@ https://softwareunderground.org/
 
 ---
 
+Inserción en otros ámbitos:
+
+# Data Science
+
+---
+
+# Reproducibilidad en Ciencia
+
+---
+
+<img class="r-stretch" src="images/reproducibility-graphic.jpeg">
+
+<div class="bottom">
+
+Baker, M. (2016). 1500 scientists lift the lid on reproducibility.
+doi: [10.1038/533452a](https://doi.org/10.1038/533452a)
+
+</div>
+
+---
+
+Una parte de la solución:
+
+# Compartir datos
+
+# +
+
+# Compartir código
+
+---
+
+# Publicar Software
+
+---
+
 <!-- .slide: data-background-color="#FAFAFA" -->
 
 <img src="images/JOSS_banner_title.png">
 
 https://joss.theoj.org/
-
----
-
-- Agile
-- Reproducibilidad de la ciencia
 
 ---
 
@@ -585,6 +615,38 @@ Octubre 13, 2019
 
 ---
 
+<!-- .slide: class="slide-title" -->
+
+# Muchas gracias
+
+---
+
+# Contacto
+
+<div>
+
+<ul class="fa-ul" style="">
+<li><i class="fa-li fa fa-envelope"></i>
+
+[santiago.r.soler@gmail.com](mailto:santiago.r.soler@gmail.com)
+
+</li>
+<li><i class="fa-li fab fa-twitter"></i>
+
+[@santirsoler](https://twitter.com/santirsoler)
+
+</li>
+<li><i class="fa-li fa fa-globe-americas"></i>
+
+[santisoler.github.io](https://santisoler.github.io)
+
+</li>
+</ul>
+
+</div>
+
+---
+
 <!-- .slide: class="slide-license" -->
 
 <p class="license-icons">
@@ -594,7 +656,3 @@ Octubre 13, 2019
 El contenido de esta presentación está disponible bajo
 
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
-
----
-
-# Muchas gracias
