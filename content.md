@@ -102,7 +102,7 @@ https://santisoler.github.io/seg-uns-2020
 
 ## Encuesta en curso de Python
 
-<img class="r-stretch" src="images/herramientas_curso_python.svg">
+<img class="fragment fade-in" style="height: 85vh" src="images/herramientas_curso_python.svg">
 
 ---
 
@@ -615,12 +615,6 @@ Octubre 13, 2019
 
 ---
 
-<!-- .slide: class="slide-title" -->
-
-# Muchas gracias
-
----
-
 # Contacto
 
 <div>
@@ -656,3 +650,9 @@ Octubre 13, 2019
 El contenido de esta presentación está disponible bajo
 
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+<!-- .slide: class="slide-title" -->
+
+# Muchas gracias
