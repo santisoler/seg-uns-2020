@@ -4,6 +4,8 @@
 
 por [Santiago Soler](https://santisoler.github.io)
 
+Ver las slides: https://santisoler.github.io/seg-uns-2020
+
 
 ## Acerca de
 
