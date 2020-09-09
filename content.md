@@ -11,19 +11,29 @@
 [*Computer-Oriented Geoscience Lab*](https://www.compgeolab.org/)
 
 <div class="container logos">
-<div class="column">
+<div class="logo">
 <a href="https://www.conicet.gov.ar/">
 <img src="images/logos/conicet.svg">
 </a>
 </div>
-<div class="column">
+<div class="logo">
 <a href="http://igsv.unsj.edu.ar/">
 <img src="images/logos/igsv.svg">
 </a>
 </div>
-<div class="column">
+<div class="logo">
 <a href="https://www.compgeolab.org/">
 <img src="images/logos/compgeolab.svg">
+</a>
+</div>
+<div class="logo">
+<a href="https://seg.org/">
+<img src="images/logos/seg-logo.png">
+</a>
+</div>
+<div class="logo">
+<a href="">
+<p>Universidad Nacional del Sur <br> SEG Student Chapter</p>
 </a>
 </div>
 </div>
@@ -565,9 +575,15 @@ Inserción en otros ámbitos:
 
 ---
 
+<!-- .slide: data-auto-animate -->
+
 # Reproducibilidad en Ciencia
 
 ---
+
+<!-- .slide: data-auto-animate -->
+
+# Reproducibilidad en Ciencia
 
 <img class="r-stretch" src="images/reproducibility-graphic.jpeg">
 
