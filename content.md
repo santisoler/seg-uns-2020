@@ -79,21 +79,21 @@ https://santisoler.github.io/seg-uns-2020
 
 # Trabajar como Geocientista
 
----
+----
 
 # Industria
 
 * **Objetivo:** Exploración de recursos naturales
 * **Produce:** Recursos naturales para su consumo
 
----
+----
 
 # Academia
 
 * **Objetivo:** Generar nuevos conocimientos
 * **Produce:** Artículos científicos
 
----
+----
 
 # Comparten un flujo de trabajo
 
@@ -108,13 +108,13 @@ https://santisoler.github.io/seg-uns-2020
 
 # ¿Qué herramientas podemos usar?
 
----
+----
 
 ## Encuesta en curso de Python
 
 <img class="fragment fade-in" style="height: 85vh" src="images/herramientas_curso_python.svg">
 
----
+----
 
 # Hojas de cálculo
 
@@ -138,11 +138,11 @@ https://santisoler.github.io/seg-uns-2020
 </div>
 </div>
 
----
+----
 
 <img class="r-stretch" src="images/excel-friends-meme.jpg">
 
----
+----
 
 <div class="r-stack">
 
@@ -165,11 +165,11 @@ doi: [10.1186/s13059-016-1044-7](https://doi.org/10.1186/s13059-016-1044-7)
 
 </div>
 
----
+----
 
 <img src="images/excel_gene_names_111.gif">
 
----
+----
 
 <div class="r-stack">
 
@@ -189,7 +189,7 @@ https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-mi
 
 </div>
 
----
+----
 
 Opinión personal:
 
@@ -197,7 +197,7 @@ Opinión personal:
 Que la tecnología se adapte a nosotres y no nosotres a ella.
 </blockquote>
 
----
+----
 
 Más ejemplos
 
@@ -217,7 +217,7 @@ Más ejemplos
 Software para procesamiento de datos
 </h2>
 
----
+----
 
 <!-- .slide: data-auto-animate -->
 
@@ -274,13 +274,13 @@ Software para procesamiento de datos
 * OpendTect
 * GPlates
 
----
+----
 
 Ejemplo: QGIS
 
 <img class="r-stretch" src="images/qgis-example.png">
 
----
+----
 
 Ejemplo: GPlates
 
@@ -295,7 +295,7 @@ Ejemplo: GPlates
 * ASPECT
 * Madagascar
 
----
+----
 
 <!-- .slide: data-auto-animate -->
 
@@ -330,7 +330,7 @@ https://docs.generic-mapping-tools.org/6.1/gallery/ex02.html1
 
 </div>
 
----
+----
 
 <!-- .slide: data-auto-animate -->
 
@@ -375,7 +375,7 @@ Instrucciones para realizar las tareas que deseamos
 
 </div>
 
----
+----
 
 ## ¿Por qué estos lenguajes?
 
@@ -412,7 +412,7 @@ Instrucciones para realizar las tareas que deseamos
 </div>
 </div>
 
----
+----
 
 <!-- .slide: class="slide-light" data-background-color="#FAFAFA" -->
 
@@ -421,7 +421,7 @@ Instrucciones para realizar las tareas que deseamos
 
 <img src="images/libraries.svg" style="height: 700px">
 
----
+----
 
 <!-- .slide: data-auto-animate -->
 
@@ -514,15 +514,15 @@ https://www.fatiando.org/harmonica/v0.1.0/gallery/eql/harmonic.html#sphx-glr-gal
 
 # Documentación y Ejemplos
 
----
+----
 
 <!-- .slide: data-background-image="images/verde-docs-home.png" data-background-size="contain" -->
 
----
+----
 
 <!-- .slide: data-background-image="images/verde-docs-coords.png" data-background-size="contain" -->
 
----
+----
 
 <!-- .slide: data-background-image="images/verde-gallery.png" data-background-size="contain" -->
 
@@ -530,7 +530,7 @@ https://www.fatiando.org/harmonica/v0.1.0/gallery/eql/harmonic.html#sphx-glr-gal
 
 # Tutoriales
 
----
+----
 
 <iframe
     width="1600"
@@ -551,7 +551,7 @@ L. Heagy (2020). Tutorial: Geophysical Inversion in SimPEG. Transform2020.
 
 # Comunidades
 
----
+----
 
 <img src="images/swung_logo.svg" height="600px">
 
@@ -594,7 +594,7 @@ doi: [10.1038/533452a](https://doi.org/10.1038/533452a)
 
 </div>
 
----
+----
 
 Una parte de la solución:
 
@@ -604,11 +604,11 @@ Una parte de la solución:
 
 # Compartir código
 
----
+----
 
 # Publicar Software
 
----
+----
 
 <!-- .slide: data-background-color="#FAFAFA" -->
 
