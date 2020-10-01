@@ -11,9 +11,10 @@ Ver las slides: https://santisoler.github.io/seg-uns-2020
 
 ## Acerca de
 
-| Información |             |
-|-------------|-------------|
-| Cuándo      | 02/10/2020  |
+| Información |                                                   |
+|-------------|---------------------------------------------------|
+| Cuándo      | 02/10/2020  17:00hs UTM-3                         |
+| Dónde       | Google Meet: https://meet.google.com/yim-fdyj-ixg |
 
 ## Abstract
 
